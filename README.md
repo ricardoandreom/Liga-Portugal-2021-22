@@ -6,7 +6,8 @@ For each **Liga Bwin 2021/22** player, it can show: **Team, Age, Role, Appearanc
 
 App url: https://ricardoandreom-liga-portugal-2021-22-player-stats.streamlit.app/
 
-Be careful with the path files to run the app.  
+Be careful with the path files to run the app.
+Open right_click_open_in_terminal.png to see a example of comands I used in the CMD to run the app.
 
 To install streamlit on your console:  **pip install streamlit**  
 
