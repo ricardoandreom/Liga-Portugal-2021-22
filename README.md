@@ -1,4 +1,4 @@
-#Liga Portugal 21-22 - Player dashboard - Streamlit app
+# Liga Portugal 21-22 - Player dashboard - Streamlit app
 
 Simple player dashboard with **Streamlit** and **Python**. 
 
