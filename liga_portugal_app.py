@@ -99,7 +99,7 @@ df_selection = df.query(
 
 # selecting stats from the data that will be displayed
 team = df_selection["Team"].sum()
-age = (df_selection["Age"].sum()).astype(int)
+age = (df_selection["Age"].sum())
 role = df_selection["Position"].sum()
 time = df_selection["Time Played"].sum()
 appearances = df_selection["Appearances"].sum()
