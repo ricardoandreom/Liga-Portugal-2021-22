@@ -31,7 +31,7 @@ df = pd.DataFrame(sheet.values)
 df = df.rename(columns=df.iloc[0])
 df = df[1:]
 #---------------------------------------------------------------------
-df = pd.read_excel("C:/Users/Admin/Desktop/Liga_Portugal_app/liga_pt.xlsx").sort_values(by=['Name']).round(3)
+df = df.sort_values(by=['Name']).round(3)
 #--------------------------------------------------------------------
 
 #    editing the player column
